@@ -1,5 +1,5 @@
 #!/bin/bash
-a=4
-b=5
-SUM=`expr $a + $b`
+a=8
+c=89
+SUM=`expr $a + $c`
 echo $SUM
